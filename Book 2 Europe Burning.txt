@@ -1,4 +1,4 @@
-"""2. Europe Burning (Book 2)
+2. Europe Burning (Book 2)
 In this book we review and analyse Europe’s current problems. We
 will also look at possible solutions
 “You shall know the truth and the truth shall make you mad.”
@@ -21798,4 +21798,3 @@ Part 9: Policy Area 12: Security Policy, Part C
 http://www.islam-watch.org/NoSharia/Prevent-Europe-Islamization9.htm
 Part 10: Policy Area 8: Rules for Visas, Immigration and Citizenship
 http://www.islam-watch.org/NoSharia/Prevent-Europe-Islamization10.htm
-"""
